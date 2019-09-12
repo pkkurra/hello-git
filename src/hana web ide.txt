@@ -1,0 +1,4 @@
+http://192.168.1.43:8000/sap/hana/ide/editor/
+http://192.168.1.43:8000/sap/hana/ide/catalog/
+http://192.168.1.43:8000/sap/hana/ide/security/
+http://192.168.1.43:8000/sap/hana/ide/trace/

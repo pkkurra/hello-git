@@ -1,0 +1,135 @@
+Background
+
+Akzo Nobel is a multinational company, active in the fields of healthcare products, coatings and chemicals. Headquartered in Amsterdam, the Netherlands, the company has activities in more than 80 countries, and employs approximately 62,000 people.
+
+
+Objective
+
+Upgrade the Business Intelligence system to a higher version.
+Implement new patches from SAP
+Reduce the query runtime
+
+Deliverables
+
+Project Management Plans
+Risk Register
+Issue Logs
+Performance improvement Reports
+Load Balancing reports
+
+
+Project Outcome
+
+Robust and refined system catering the needs of Business Analysts, Key users and end users.
+
+
+
+-------------------------------------
+
+
+Background
+
+
+Maxxium Worldwide is responsible for the sales, local marketing and distribution of many of the world's premium spirits and wine brands, including ABSOLUT Vodka, The Famous Grouse Scotch Whisky, Jim Beam Bourbon and Rémy Martin Cognac.
+
+
+Objective
+
+Build the system to cater the Planning and Optimization 
+Central store of information for all business units across the globe
+
+
+Deliverables
+
+Planning & Forecast reports
+Users access reports
+
+
+Project Outcome
+
+Key users can perform Planning functions and do the forecasting of day-to-day sales without laborious task of looking into legacy systems.
+
+
+-------------------------------------
+
+
+Background
+
+ASML is the world's leading provider of lithography systems for the semiconductor industry, manufacturing complex machines that are critical to the production of integrated circuits or microchips, headquartered in Veldhoven, the Netherlands.
+
+Objective
+
+Upgrade of BI system to newer version
+Implementation of existing modules in the new version
+Enhancements in reporting functionality
+Create web reports for ease of use by the managers
+
+Deliverables
+
+Web reports
+All modules upgraded to new version
+Performance reports
+
+Project Outcome
+
+Web reports for usage bye key users of the company
+Reports with added functionality addressing the specific needs of customer
+Access to latest features of the system like Business Planning and Simulation
+
+
+-------------------------------------
+
+
+Background
+
+Philips Lighting and Luminaires - A unit of flagship company Philips is Located in Eindhoven, Netherlands. 
+
+Objective
+
+Netweaver and Enterprise Portal implementation
+
+Deliverables
+
+Dash Board reports
+Summary sales sheets across the web
+
+Project Outcome
+
+Users can acess the data from the enterprise portal
+View and Analyze data on the web
+Share the reports cross GBU
+
+---------------------------------
+
+Objective
+
+The Global IT - NCC project aims at integrating different application systems around the globe. The systems are migrated, upgraded with newer fuctionalities. Newer patches and applications systems are brought within the framework of this project to meet the day-to-day demands of IT needs accross the globe. All the countries divided into few logical systems are aligned into a single system for a quick access of information across the globe.
+
+Deliverables
+
+Design document
+Functional Specification Document
+Technical Specification Document
+
+Project Outcome
+
+Enhanced reporting with quick turnaround time
+Single point of access for all the information at one central repository
+
+---------------------------------
+
+Objective
+
+Warburtons is a baking firm based in Bolton, England. The firm produces one million bakery products per day. It is the UK's third biggest bread manufacturer after Allied Bakeries and RHM (British Bakeries).
+
+Deliverables
+
+Finance roadmap phase-2 design document
+Finance roadmap detailed functional spec
+Profit Center & Cost Center related extractors, infosources, cubes etc.,
+Detailed documentation of the work
+
+Project Outcome
+
+Sophisticated reporting in cost center and profit center related areas
+
